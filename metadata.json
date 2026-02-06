@@ -1,0 +1,7 @@
+{
+  "name": "Bens Vokabel Welt",
+  "description": "An AI-powered vocabulary learning application for German learners. It generates visual mnemonics, example sentences, and high-quality audio pronunciation for every word.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
